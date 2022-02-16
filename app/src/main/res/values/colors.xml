@@ -8,6 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="orange">#FF5722</color>
-    <color name="hash2">#cccccc</color>
-    <color name="hash">#dddddd</color>
+    <color name="hash2">#f9f9f9f9</color>
+    <color name="hash">#909497 </color>
 </resources>

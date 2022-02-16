@@ -36,9 +36,6 @@ public class IntroActivity extends AppCompatActivity implements ViewPager.OnPage
         viewPager.setAdapter(introViewPagerAdapter);
         textView.setOnClickListener(this);
 
-
-
-
     }
 
     @Override
