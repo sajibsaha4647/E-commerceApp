@@ -15,8 +15,9 @@
 
         <activity
             android:name=".Activities.SplashActivity"
-            android:exported="true" >
-
+            android:exported="true"
+            android:theme="@style/Theme.EcommerceApp.Luncher"
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
